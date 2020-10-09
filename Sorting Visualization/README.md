@@ -26,7 +26,7 @@ Total operations = 230
 Total operations = 131
 
 ![quick](https://i.top4top.io/p_1743rf4xy4.gif)
-
+![quick](https://i.top4top.io/p_1743ghv4d1.png)
 ### Merge Sort
 Total operations = 177
 
